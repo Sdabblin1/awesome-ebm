@@ -1,6 +1,27 @@
 # Awesome Energy-Based Model [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Working on it ⚒️
+# Awesome Energy-Based Model [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+Working on it ⚒️
 
+## Contents
+
+- [Videos and Lectures](#videos-and-lectures)
+- [Papers](#papers)
+- [Tutorials](#tutorials)
+- [Miscellaneous](#miscellaneous)
+
+## Videos and Lectures
+- [NYU Deep Learning Lectures](https://atcold.github.io/NYU-DLSP21/)
+- Yann LeCun's Lectures
+	[1](https://www.youtube.com/watch?v=_IqJCWsSo6M&list=PL80I41oVxglJ0kTDV7i3aHBIXe65nTxE7&index=5) [2](https://www.youtube.com/watch?v=P2podqIHR98&list=PL80I41oVxglJ0kTDV7i3aHBIXe65nTxE7&index=4) [3-1](https://www.youtube.com/watch?v=FDIW3eAr-U0&list=PL80I41oVxglJ0kTDV7i3aHBIXe65nTxE7&index=3) [3-2](https://www.youtube.com/watch?v=Grhz8RXYfxw&list=PL80I41oVxglJ0kTDV7i3aHBIXe65nTxE7&index=2)
+
+
+## Papers
+- [Structured Energy Network as a Loss Function](https://openreview.net/forum?id=F0DowhX7_x)
+- [Improved Contrastive Divergence Training of Energy Based Models](https://www.google.com/url?q=https%3A%2F%2Fopenreview.net%2Fforum%3Fid%3DYQEoCEM3tQg&sa=D&sntz=1&usg=AOvVaw3CmcdlgdOO3cIn9kWVqK1i)
+- [Energy-based Models for Earth Observation Applications](https://www.google.com/url?q=https%3A%2F%2Fopenreview.net%2Fforum%3Fid%3D1CtqZ1MvAFp&sa=D&sntz=1&usg=AOvVaw0A52KbUC6aztUXNUwzuQ8N)
+- [How to Train Your Energy-Based Models](https://arxiv.org/abs/2101.03288)
+- [GraphEBM: Molecular Graph Generation with Energy-Based Models](https://arxiv.org/abs
 ## Contents
 
 - [Videos and Lectures](#videos-and-lectures)
